@@ -1,0 +1,2875 @@
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 1/32
+____________________________________________________________________________________________
+
+Acido Folico
+Mat e rial:
+Me t o d o :
+
+16,0 ng/mL
+
+Sangue
+Quimiluminescencia
+
+Valor de Ref erencia:
+3,0 a 17,0 ng/mL
+Bibliografia:
+NIH - National Institutes of Health
+O uso de compostos contendo biotina pode gerar interferencia no resultado deste exame dependendo da dose e
+tempo de uso. No caso de incompatibilidade do resultado com o quadro clinico, a suspensao do uso desses
+compostos por cerca de 72 horas deve eliminar essa interferencia.
+*Nova metodologia a partir de 11/11/2019*
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+Vit amina B12
+Mat e rial:
+Me t o d o :
+
+446 pg/mL
+
+Sangue
+Quimiluminescencia
+
+Valor de Ref erencia:
+211 a 911 pg/mL
+Bibliografia
+- Instrucoes do fabricante
+*Nova metodologia a partir de 11/11/2019*
+1.200
+1.000
+800
+600
+400
+200
+0
+
+287
+
+253
+
+282
+
+322
+
+320
+
+310
+
+13/11/13
+06:45:00
+
+05/12/14
+06:31:00
+
+09/09/15
+06:29:00
+
+04/02/16
+06:21:00
+
+22/08/16
+06:49:00
+
+26/04/17
+06:23:00
+
+434
+
+03/08/20
+06:17:42
+
+575
+
+19/01/21
+06:38:32
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+446
+
+13/10/21
+07:28:20
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 2/32
+____________________________________________________________________________________________
+
+Homocist eina
+Mat e rial:
+Me t o d o :
+
+8.3 mcmol/L
+
+Sangue
+Quimiluminescencia
+
+Valor de Ref erencia:
+3,7 a 13,9 mcmol/L
+Bibliografia
+- Instrucoes do fabricante
+*Nova metodologia a partir de 11/11/2019*
+Dat a de colet a: 13/10/2021 - 07:28:29
+
+Magnesio
+Mat e rial:
+Me t o d o :
+
+2,2 mg/dL
+
+Sangue
+Colorimetrico
+
+Valor de Ref erencia:
+Criancas 1 a 30 dias: 1,7 a 2,5 mg/dL
+Adultos...........................: 1,6 a 2,6 mg/dL
+Bibliografia
+- Pediatric Reference Intervals.
+Edited by Soldin, S.J.; Brugnara, C.; Wong, E.C. 6th edition. AACC Press.
+- Instrucoes do fabricante
+*Nova metodologia a partir de 11/11/2019*
+3,5
+3
+2,5
+2
+1,5
+1
+
+2,3
+
+2,2
+
+03/08/20
+06:17:42
+
+13/10/21
+07:28:20
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 3/32
+____________________________________________________________________________________________
+
+Calcio Ionico
+Mat e rial:
+Me t o d o :
+
+5,4
+
+mg/dL
+
+Sangue
+Eletrodo seletivo
+
+Valor de Ref erencia:
+Recem nascidos: 4,8 a 5,9 mg/dL
+Adultos...................: 4,4 a 5,4 mg/dL
+Bibliografia
+Jacobs, D.S; DeMott, W.R.; Oxley, D.K. Laboratory Test Handbook. 5th Edition, 2001.
+8
+7
+6
+5
+4
+3
+
+5,3
+
+5,6
+
+13/11/13
+06:45:00
+
+26/04/17
+06:23:00
+
+5,1
+
+5,4
+
+07/05/19
+06:40:52
+
+13/10/21
+07:28:20
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+PTH - Parat ormonio - Molecula int eira
+Mat e rial:
+Me t o d o :
+
+24,1 pg/mL
+
+Sangue
+Quimiluminescencia
+
+Valor de Ref erencia:
+18,4 a 80,1 pg/mL
+Bibliografia
+- Instrucoes do fabricante
+*Nova metodologia a partir de 11/11/2019*
+Dat a de colet a: 13/10/2021 - 07:28:29
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 4 /32
+____________________________________________________________________________________________
+
+25-OH Vit amina D
+Mat e rial:
+Me t o d o :
+
+15,3 ng/mL
+
+Sangue
+Quimioluminescencia
+
+Valor de Ref erencia:
+Valor desejavel para populacao ate 60 anos: maior que 20,0 ng/mL
+Valor recomendado para grupos de risco*.....: de 30,0 a 60,0 ng/mL
+Risco de toxicidade e hipercalcemica..............: maior que 100,0 ng/mL
+*Sao considerados grupos de risco: idosos, gestantes, lactantes, pacientes com raquitismo/osteomalacia,
+osteoporose, pacientes com historia de quedas e fraturas, causas secundarias de osteoporose (doencas e
+medicacoes), hiperparatireoidismo, doencas inflamatorias, doencas autoimunes, doenca renal cronica e sindromes
+de ma absorcao (clinicas ou pos- cirurgicas).
+Fonte: Posicionamento Oficial da Sociedade Brasileira de Patologia Clinica/Medicina Laboratorial (SBPC/ML) e da
+Sociedade Brasileira de Endocrinologia e Metabologia (SBEM)
+Nota: A metodologia utiliz ada possui especificidade para a deteccao das fracoes D2 e D3. O uso de compostos
+contendo biotina pode gerar interferencia no resultado deste exame dependendo da dose e tempo de uso. No caso
+de incompatibilidade do resultado com o quadro clinico, a suspensao do uso desses compostos por cerca de 72
+horas deve eliminar essa interferencia.
+*Nova metodologia a partir de 11/11/2019*
+150
+100
+50
+
+28,6
+
+34,0
+
+26/04/17
+06:23:00
+
+07/05/19
+06:40:52
+
+14,7
+
+15,1
+
+15,3
+
+03/08/20
+06:17:42
+
+19/01/21
+06:38:32
+
+13/10/21
+07:28:20
+
+0
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 5/32
+____________________________________________________________________________________________
+
+Creat inina
+Mat e rial:
+Me t o d o :
+
+Sangue
+Colorimetrico (Picrato alcalino - Jaffe)
+
+CREATININA
+Valor de Ref erencia:
+Mulheres: 0,55 a 1,02 mg/dL
+Homens..: 0,70 a 1,30 mg/dL
+
+0,84
+
+mg/dL
+
+O metodo utiliz ado e rastreavel ao metodo definitivo IDMS (diluicao isotopica por espetrometria de massa), atendendo
+as recomendacoes do NKDEP (National Kidney Disease Education Program).
+Bibliografia
+- Instrucoes do fabricante
+*Nova metodologia e valores de referencia a partir de 11/11/2019*
+2
+1,5
+1
+
+0,72
+
+0,85
+
+0,81
+
+0,84
+
+26/04/17
+06:23:00
+
+07/05/19
+06:40:52
+
+19/01/21
+06:38:32
+
+13/10/21
+07:28:20
+
+0,5
+0
+
+R.F.G. CAUCASIANO
+R.F.G. AFRO- AMERICANO
+
+>90
+>90
+
+mL/min/1.73m2
+mL/min/1.73m2
+
+Valor de Ref erencia:
+> 90 mL/mim/1,73m2
+*RFG = RITMO DE FILTRACAO GLOMERULAR CALCULADO
+Nota: A estimativa do ritmo de filtracao glomerular pela formula do CKD- EPI deve ser aplicada para adultos com idade
+de 18 a 70 anos.
+* Novo calculo a partir de 31/12/2016*
+D at a d e C o le t a:
+
+13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 6/32
+____________________________________________________________________________________________
+
+Sodio
+Mat e rial:
+Me t o d o :
+
+142,0 mEq/L
+Sangue
+Eletrodo seletivo
+
+Valor de Ref erencia:
+Criancas
+0 a 7 dias....: 133 a 146 mEq/L
+7 a 31 dias..: 134 a 144 mEq/L
+1 a 6 meses.: 134 a 142 mEq/L
+6 a 12 meses: 133 a 142 mEq/L
+1 a 18 anos...: 134 a 143 mEq/L
+Adultos..........: 136 a 145 mEq/L
+Bibliografia
+Jacobs, D.S; DeMott, W.R.; Oxley, D.K. Laboratory Test Handbook. 5th Edition, 2001.
+*Nova metodologia a partir de 11/11/2019*
+180
+160
+140
+
+141
+
+142,0
+
+142,0
+
+141,0
+
+140,0
+
+142,0
+
+01/03/13
+07:09:00
+
+22/08/16
+06:49:00
+
+26/04/17
+06:23:00
+
+03/08/20
+06:17:42
+
+19/01/21
+06:38:32
+
+13/10/21
+07:28:20
+
+120
+100
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 7/32
+____________________________________________________________________________________________
+
+Pot assio
+Mat e rial:
+Me t o d o :
+
+4,4
+
+mEq/L
+
+Sangue
+Eletrodo seletivo
+
+Valor de Ref erencia:
+Recem nascidos: 3,5 a 5,5 mEq/L
+Adultos...................: 3,6 a 5,1 mEq/L
+Bibliografia
+Instrucoes do fabricante
+Jacobs, D.S; DeMott, W.R.; Oxley, D.K. Laboratory Test Handbook. 5th Edition, 2001.
+*Nova metodologia a partir de 11/11/2019*
+7
+6
+5
+4
+3
+2
+
+4,2
+
+4,1
+
+4,3
+
+4,4
+
+01/03/13
+07:09:00
+
+26/04/17
+06:23:00
+
+03/08/20
+06:17:42
+
+13/10/21
+07:28:20
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+Cloret os
+Mat e rial:
+Me t o d o :
+
+105 mEq/L
+Sangue
+Eletrodo seletivo
+
+Valor de Ref erencia:
+Adultos e criancas: 97 a 107 mEq/L
+Bibliografia
+Jacobs, D.S; DeMott, W.R.; Oxley, D.K. Laboratory Test Handbook. 5th Edition, 2001.
+*Nova metodologia a partir de 11/11/2019*
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 8/32
+____________________________________________________________________________________________
+
+Ferrit ina
+Mat e rial:
+Me t o d o :
+
+61,0 ng/mL
+Sangue
+Quimiluminescencia
+
+Valor de Ref erencia:
+Homens.................: 22 a 322 ng/mL
+Sendo a ferritina uma proteina de fase aguda, ela podera estar aumentada nos processos inflamatorios.
+Bibliografia
+- Instrucoes do fabricante
+*Nova metodologia a partir de 11/11/2019*
+400
+300
+200
+100
+0
+
+24
+
+20
+
+45
+
+58
+
+45,0
+
+61,0
+
+01/03/13
+07:09:00
+
+22/01/15
+06:35:00
+
+09/05/17
+06:18:00
+
+07/05/19
+06:40:52
+
+19/01/21
+06:38:32
+
+13/10/21
+07:28:20
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 9/32
+____________________________________________________________________________________________
+
+Ferro
+Mat e rial:
+Me t o d o :
+
+103 mcg/dL
+Sangue
+Colorimetrico
+
+Valor de Ref erencia:
+65 a 175 mcg/dL
+Bibliografia
+- Instrucoes do fabricante
+*Nova metodologia a partir de 11/11/2019*
+250
+200
+122
+
+131
+
+01/03/13
+07:09:00
+
+22/01/15
+06:35:00
+
+150
+100
+
+107
+
+103
+
+19/01/21
+06:38:32
+
+13/10/21
+07:28:20
+
+50
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+Indice de Sat uracao da Transf errina
+Mat e rial:
+Me t o d o :
+
+Sangue
+Calculo baseado nas dosagens de Ferro e Capacidade de ligacao do ferro
+
+Indice de sat uracao da t rasnf errina
+Valor de Referencia:
+
+D at a d e C o le t a:
+
+%
+
+20 a 50%
+*Nova metodologia a partir de 13/05/2020*
+Bibliografia
+- Instrucoes do fabricante
+13/10/2021 - 07:28:20
+
+Vit amina A (Ret inol)
+Mat e rial:
+Me t o d o :
+
+33
+
+0,51 mg/L
+
+Sangue
+HPLC
+
+Valor de Ref erencia:
+0,30 a 0,70 mg/L
+*Novos valores de referencia a partir de 23/02/2016*
+Dat a de colet a: 13/10/2021 - 07:20:26
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 10/32
+____________________________________________________________________________________________
+
+VITAMINA C
+Mat e rial:
+Me t o d o :
+
+Sangue
+HPLC
+
+VITAMINA C (ACIDO ASCORBICO)
+Valor de Referencia:
+
+8,2
+
+mg/L
+
+4,6 a 14,9 mg/L
+Sensibilidade: 0,4 mg/L
+Linearidade: 100,0 mg/L
+Nota: A vitamina C e termolabil e a sua dosagem pode ser afetada pelas condicoes de
+conservacao da amostra. Se incompativel com o quadro clinico, sugerimos repeticao em nova
+amostra.
+*Nova metodologia e valores de referencia a partir de 15/07/2021*.
+
+D at a d e C o le t a:
+
+13/10/2021 - 07:28:24
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 11/32
+____________________________________________________________________________________________
+
+Aspart at o amino t ransf erase (TGO)
+Mat e rial:
+Me t o d o :
+
+19 U/L
+
+Sangue
+Cinetica - UV
+
+Valor de Ref erencia:
+Sexo Masculino
+1 a 07 dias..: 26 a 98 U/L
+8 a 30 dias..: 16 a 67 U/L
+1 a 6 meses:16 a 62 U/L
+7 a 12 meses:16 a 52 U/L
+1 a 3 anos..: 16 a 57 U/L
+4 a 6 anos..: 10 a 47 U/L
+7 a 15 anos.: 10 a 41 U/L
+Adultos........: ate 34 U/L
+Valores de referencia encontrados na infancia podem atingir 2 a 3 vez es os valores definidos para adultos.
+Bibliografia
+- Instrucoes do fabricante
+- Jacobs, D.S; DeMott, W.R.; Oxley, D.K. Laboratory Test Handbook. 5th Edition, 2001.
+*Novos valores de referencia e metodologia a partir de 11/11/2019*
+100
+80
+60
+40
+20
+0
+
+35
+
+28
+
+21
+
+26
+
+13/11/13
+06:45:00
+
+22/08/16
+06:49:00
+
+26/04/17
+06:23:00
+
+07/05/19
+06:40:52
+
+17
+
+17
+
+19
+
+19
+
+26/11/19
+06:52:15
+
+03/08/20
+06:17:42
+
+19/01/21
+06:38:32
+
+13/10/21
+07:28:20
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 12/32
+____________________________________________________________________________________________
+
+Alanina amino t ransf erase (TGP)
+Mat e rial:
+Me t o d o :
+
+30 U/L
+
+Sangue
+Cinetica - UV
+
+Valor de Ref erencia:
+Sexo Masculino
+1 a 30 dias....:20 a 54 U/L
+1 a 6 meses..:26 a 55 U/L
+7 a 12 meses:26 a 59 U/L
+1 a 3 anos...: 19 a 59 U/L
+4 a 11 anos.: 14 a 49 U/L
+12 a 15 anos:24 a 59 U/L
+Adultos.......: 10 a 49 U/L
+Valores de referencia encontrados na infancia podem atingir 2 a 3 vez es os valores definidos para adultos.
+Bibliografia
+- Instrucoes do fabricante
+- Jacobs, D.S; DeMott, W.R.; Oxley, D.K. Laboratory Test Handbook. 5th Edition, 2001.
+*Novos valores de referencia e metodologia a partir de 11/11/2019*
+150
+100
+50
+
+33
+
+21
+
+21
+
+30
+
+42
+
+13/11/13
+06:45:00
+
+22/08/16
+06:49:00
+
+26/04/17
+06:23:00
+
+07/05/19
+06:40:52
+
+26/11/19
+06:52:15
+
+26
+
+34
+
+30
+
+03/08/20
+06:17:42
+
+19/01/21
+06:38:32
+
+13/10/21
+07:28:20
+
+0
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 13/32
+____________________________________________________________________________________________
+
+Gama Glut amil Transf erase (GGT)
+Mat e rial:
+Me t o d o :
+
+36 U/L
+
+Sangue
+Cinetico
+
+Valor de Ref erencia:
+Feminino:
+1 a 12 anos..: 4 a 22 U/L
+13 a 18 anos: 4 a 24 U/L
+Adultos........: ate 38 U/L
+Masculino:
+1 a 12 anos..: 3 a 22 U/L
+13 a 18 anos: 2 a 42 U/L
+Adultos........: ate 73 U/L
+Bibliografia
+- Instrucoes do fabricante
+*Nova metodologia e valores de referencia a partir de 11/11/2019*
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 14 /32
+____________________________________________________________________________________________
+
+Fosf at ase alcalina
+Mat e rial:
+Me t o d o :
+
+Valor de Ref erencia:
+Criancas
+Masculino
+1 a 30 dias.:
+75 a 316 U/L
+1 a 12 meses: 82 a 383 U/L
+1 a 3 anos..: 104 a 345 U/L
+4 a 6 anos..:
+93 a 309 U/L
+7 a 9 anos..:
+86 a 315 U/L
+10 a 12 anos: 42 a 362 U/L
+13 a 15 anos: 74 a 390 U/L
+16 a 18 anos: 52 a 171 U/L
+Adultos.....:
+
+98 U/L
+
+Sangue
+Bowers e Mc Comb modificado
+
+Feminino
+48 a 406 U/L
+124 a 341 U/L
+108 a 317 U/L
+96 a 297 U/L
+69 a 325 U/L
+51 a 332 U/L
+50 a 162 U/L
+47 a 119 U/L
+
+46 a 116 U/L
+
+Bibliografia
+- Instrucoes do fabricante
+- Pediatric Reference Intervals.
+Edited by Soldin, S.J.; Brugnara, C.; Wong, E.C. 6th edition. AACC Press.
+*Novos valores de referencia e metodologia a partir de 11/11/2019*
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+Desidrogenase lat ica
+Mat e rial:
+Me t o d o :
+
+157 U/L
+
+Sangue
+Lactato- Piruvato
+
+Valor de Ref erencia:
+Criancas
+1 a 3 anos..: 245 a 365 U/L
+4 a 9 anos..: 160 a 260 U/L
+10 a 13 anos: 125 a 250 U/L
+Adultos........: 120 a 246 U/L
+Bibliografia
+- Instrucoes do fabricante
+*Nova metodologia e valores de referencia a partir de 11/11/2019*
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 15/32
+____________________________________________________________________________________________
+
+Lipase
+Mat e rial:
+Me t o d o :
+
+42 U/L
+Sangue
+Enz imatico
+
+Valor de Ref erencia:
+12 a 53 U/L
+Bibliografia
+- Instrucoes do fabricante
+*Nova metodologia e valores de referencia a partir de 11/11/2019*
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+Bilirrubina t ot al e f racoes
+Mat e rial:
+Me t o d o :
+
+Sangue
+Oxidacao com Vanadato
+
+Bilirrubina diret a
+Bilirrubina indiret a
+Bilirrubina t ot al
+
+0,20
+0,51
+0,71
+
+mg/dL
+mg/dL
+mg/dL
+
+Valor de Ref erencia:
+Bilirrubina Direta: ate
+0,3 mg/dL
+Bilirrubina Total.: 0,30 a 1,2 mg/dL
+Bibliografia
+- Instrucoes do fabricante
+*Nova metodologia a partir de 11/11/2019*
+D at a d e C o le t a:
+
+13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 16/32
+____________________________________________________________________________________________
+
+LIPIDOGRAMA
+Mat e rial:
+Me t o d o :
+
+Sangue
+Enz imatico
+
+ASPECTO DO SORO
+Limpido
+QUILOMICRONS
+Ausentes
+TRIGLICERIDES
+141 mg/dL
+COLESTEROL TOTAL
+197 mg/dL
+COLESTEROL NAO- HDL
+151 mg/dL
+COLESTEROL HDL
+46 mg/dL
+COLESTEROL VLDL
+25 mg/dL
+COLESTEROL LDL
+126 mg/dL
+Valor de Ref erencia:
+Valores de referencia e de alvo terapeutico conforme avaliacao de risco cardiovascular estimado pelo medico para
+adultos a partir de 20 anos.
+Com Jejum (mg/dL)
+Sem Jejum (mg/dL)
+Categoria
+Referencial
+-------------------------------------------------------------------------------------------------------------------------Colesterol total:
+< 190
+< 190
+Desejavel
+-------------------------------------------------------------------------------------------------------------------------HDL
+> 40
+> 40
+Desejavel
+-------------------------------------------------------------------------------------------------------------------------Triglicerides
+< 150
+< 175
+Desejavel
+-------------------------------------------------------------------------------------------------------------------------Meta terapeutica
+Categoria de risco
+-------------------------------------------------------------------------------------------------------------------------LDL
+< 130
+< 130
+Baixo
+< 100
+< 100
+Intermediario
+< 70
+< 70
+Alto
+< 50
+< 50
+Muito alto
+-------------------------------------------------------------------------------------------------------------------------Nao HDL
+< 160
+< 160
+Baixo
+< 130
+< 130
+Intermediario
+< 100
+< 100
+Alto
+< 80
+< 80
+Muito alto
+-------------------------------------------------------------------------------------------------------------------------nota: 1 - Nos casos em que o nivel de triglicerides for superior a 440 mg/dL (sem jejum), recomenda- se uma nova
+avaliacao do perfil lipidico em jejum.
+Referencia: Consenso Brasileiro para a normatiz acao da determinacao laboratorial do perfil lipidico. 2016
+* Novos valores de referencia a partir de 07/12/2016 *
+* Nova metodologia a partir de 11/11/2019*
+D at a d e C o le t a:
+
+13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 17/32
+____________________________________________________________________________________________
+Periodo em jejum (horas): 13:00
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 18/32
+____________________________________________________________________________________________
+
+Prot eina C reat iva de alt a sensibilidade
+Mat e rial:
+Me t o d o :
+
+0,51 mg/L
+
+Sangue
+Turbidimetria
+
+Valor de Ref erencia:
+Para avaliacao cardiovascular:
+Risco baixo........:
+< 1,00 mg/L
+Risco moderado.: 1,00 a 3,00 mg/L
+Risco alto..........:
+> 3,00 mg/L
+Para avaliacao de processo inflamatorios/infecciosos: > 5,00 mg/L
+Bibliografia
+- Instrucoes do fabricante
+*Nova metodologia a partir de 11/11/2019*
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 19/32
+____________________________________________________________________________________________
+
+Apolipoprot eina A1
+Mat e rial:
+Me t o d o :
+
+144,0 mg/dL
+
+Sangue
+Imunoturbidimetria
+
+Valor de Ref erencia:
+Homem:
+Inferior a 1 ano:
+61 a
+De 1 a 11 anos:
+93 a
+De 12 a 60 anos: 95 a
+Superior a 60 anos: 73 a
+
+164 mg/dL
+172 mg/dL
+186 mg/dL
+186 mg/dL
+
+Mulher:
+Inferior a 1 ano:
+59 a 169 mg/dL
+De 1 a 11 anos:
+86 a 179 mg/dL
+De 12 a 60 anos: 101 a 223 mg/dL
+Superior a 60 anos: 91 a 224 mg/dL
+*Atencao: Novos valores de referencia a partir de 20/10/2020*
+Dat a de colet a: 13/10/2021 - 07:28:23
+
+Apolipoprot eina B
+Mat e rial:
+Me t o d o :
+
+102,0 mg/dL
+
+Sangue
+Imunoturbidimetria
+
+Valor de Ref erencia:
+Homem:
+Inferior a 1 ano:
+16 a 124 mg/dL
+De 1 a 11 anos: 48 a 125 mg/dL
+De 12 a 60 anos: 49 a 173 mg/dL
+Superior a 60 anos: 54 a 163 mg/dL
+Mulher:
+Inferior a 1 ano:
+17 a 120 mg/dL
+De 1 a 11 anos:
+51 a 126 mg/dL
+De 12 a 60 anos: 53 a 182 mg/dL
+Superior a 60 anos: 64 a 182 mg/dL
+*Atencao: Novos valores de referencia a partir de 20/10/2020*
+Dat a de colet a: 13/10/2021 - 07:28:23
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 20/32
+____________________________________________________________________________________________
+
+Fibrinogenio
+Mat e rial:
+Me t o d o :
+
+190 mg/dL
+
+Sangue
+Clauss
+
+Valor de Ref erencia:
+180 a 350 mg/dL
+* Novos valores de referencia a partir de 05/04/2017*
+Bibliografia
+- Instrucoes do fabricante
+Dat a de colet a: 13/10/2021 - 07:28:19
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 21/32
+____________________________________________________________________________________________
+
+Cort isol Basal
+Mat e rial:
+Me t o d o :
+
+28,12 mcg/dL
+
+Sangue
+Quimiluminescencia
+
+Valor de Ref erencia:
+5,00 a 25,00 mcg/dL
+Bibliografia
+Jacobs, D.S; DeMott, W.R.; Oxley, D.K. Laboratory Test Handbook. 5th Edition, 2001.
+*Nova metodologia a partir de 11/11/2019*
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 22/32
+____________________________________________________________________________________________
+
+SDHEA
+Mat e rial:
+Me t o d o :
+
+435,7 mcg/dL
+Sangue
+Quimioluminescencia
+
+Valor de Ref erencia:
+Meninos:
+2 a 3 anos: ate 21,7 mcg/dL
+4 a 9 anos: ate 88,6 mcg/dL
+10 a 14 anos: 37,3 a 270,2 mcg/dL
+15 a 21 anos: 101,6 a 522,6 mcg/dL
+Meninas:
+2 a 3 anos: ate 23,7 mcg/dL
+4 a 9 anos: ate 108,3 mcg/dL
+10 a 15 anos: 33,4 a 245,0 mcg/dL
+16 a 21 anos: 98,3 a 413,4 mcg/dL
+Recem nascidos: 30,0 a 250,0 mcg/dL
+* Novos valores de referencia e metodologia a partir de 11/11/2019*
+Bibliografia
+- Instrucoes do fabricante
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+Hormonio Adrenocort icot rof ico (ACTH)
+Mat e rial:
+Me t o d o :
+
+21,6 pg/mL
+
+Sangue
+Quimioluminescencia
+
+Valor de Ref erencia:
+Ate 46,0 pg/mL
+*Novos valores de referencia a partir de 13/11/2018*
+Dat a de colet a: 13/10/2021 - 07:28:15
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 23/32
+____________________________________________________________________________________________
+
+Acido urico
+Mat e rial:
+Me t o d o :
+
+4,3 mg/dL
+
+Sangue
+Enz imatico - Trinder
+
+Valor de Ref erencia:
+Adultos
+Homens......: 3,7 a 9,2 mg/dL
+Mulheres.....: 3,1 a 7,8 mg/dL
+Bibliografia
+- Instrucoes do fabricante
+*Nova metodologia e valores de referencia a partir de 11/11/2019*
+10
+8
+6
+4
+
+4,9
+
+4,7
+
+4,3
+
+03/08/20
+06:17:42
+
+19/01/21
+06:38:32
+
+13/10/21
+07:28:20
+
+3,4
+
+2
+26/11/19
+06:52:15
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 24 /32
+____________________________________________________________________________________________
+
+Ureia
+Mat e rial:
+Me t o d o :
+
+20 mg/dL
+Sangue
+Enz imatico
+
+Valor de Ref erencia:
+19 a 49 mg/dL
+Bibliografia
+Instrucoes do fabricante
+*Nova metodologia e valores de referencia a partir de 11/11/2019*
+60
+50
+40
+30
+20
+10
+
+19
+
+08/03/12
+07:01:00
+
+23
+
+21
+
+01/03/13
+07:09:00
+
+22/01/15
+06:35:00
+
+25
+
+09/09/15
+06:29:00
+
+20
+
+13/10/21
+07:28:20
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 25/32
+____________________________________________________________________________________________
+
+Hemograma
+Mat e rial:
+Me t o d o :
+
+Sangue
+Sysmex - Serie XN
+
+Valor de referencia
+Hemacias
+Hemoglobina
+Hemat ocrit o
+VCM
+HCM
+CHCM
+RDW
+
+5.570.000
+16,9
+50,0
+89,8
+30,3
+33,8
+11,9
+Relat ivo (% )
+
+Leucocit os
+Promielocit os
+Mielocit os
+Met amielocit os
+Bast onet es
+Segment ados
+Eosinof ilos
+Basof ilos
+Monocit os
+Linf ocit os
+Linf . Reat ivos
+Out ros
+
+0,0
+0,0
+0,0
+0,0
+45,4
+2,6
+0,3
+7,5
+44,2
+0,0
+0,0
+
+Plaquet as
+
+/mm3
+g/dL
+%
+fL
+pg
+%
+%
+(/mm3)
+6.110
+0
+0
+0
+0
+2.774
+159
+18
+458
+2.701
+0
+0
+239.000
+
+D at a d e C o le t a:
+
+4.400.000 a 5.900.000 /mm3
+13,0 a 18,0 g/dL
+40,0 a 52,0 %
+80,0 a 100,0 fL
+26,0 a 34,0 pg
+32,0 a 36,0 %
+11,6 a 14,6 %
+
+4.000 a 11.000 /mm3
+
+0a5%
+40 a 80 %
+1a6%
+0a2%
+2 a 10 %
+20 a 40 %
+
+0 a 500 /mm3
+2.000 a 7.000 /mm3
+2 a 500 /mm3
+0 a 100 /mm3
+200 a 1.000 /mm3
+1.000 a 3.000 /mm3
+
+140.000 a 450.000 /mm3
+
+13/10/2021 - 07:28:27
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 26/32
+____________________________________________________________________________________________
+
+TSH Basal - 3a Geracao
+Mat e rial:
+Me t o d o :
+
+0,99 mcIU/mL
+
+Sangue
+Quimioluminescencia
+
+Valor de Ref erencia:
+0,55 a 4,78 mcIU/mL
+Bibliografia:
+Instrucao do fabricante
+*Nova metodologia a partir de 11/11/2019*
+6
+4
+1,07
+
+1,39
+
+0,97
+
+0,78
+
+0,93
+
+0,88
+
+0,92
+
+0,76
+
+13/11/13
+06:45:00
+
+22/01/15
+06:35:00
+
+09/09/15
+06:29:00
+
+04/02/16
+06:21:00
+
+22/08/16
+06:49:00
+
+26/04/17
+06:23:00
+
+07/05/19
+06:40:52
+
+26/11/19
+06:52:15
+
+2
+
+1,41
+
+0,99
+
+19/01/21
+06:38:32
+
+13/10/21
+07:28:20
+
+0
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+T3 Livre
+Mat e rial:
+Me t o d o :
+
+4,60 pg/mL
+Sangue
+Quimioluminescencia
+
+Valor de Ref erencia:
+13 a 20 anos: 3,0 a 4,7 pg/mL
+Bibliografia:
+Instrucoes do fabricante
+*Nova metodologia a partir de 11/11/2019*
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 27/32
+____________________________________________________________________________________________
+
+T4 Livre
+Mat e rial:
+Me t o d o :
+
+1,49 ng/dL
+Sangue
+Quimioluminescencia
+
+Valor de Ref erencia:
+Adultos.....................: 0,80 a 1,90 ng/dL
+2 semanas a 20 anos.: 0,80 a 2,00 ng/dL (segundo Tietz )
+Bibliografia
+- Instrucoes do fabricante
+- Tietz clinical guide to laboratory tests, 4th edition. Alan H.B Wu.
+*Nova metodologia a partir de 11/11/2019*
+2,5
+2
+1,5
+
+1,23
+
+1,20
+
+1,15
+
+08/03/12
+07:01:00
+
+01/03/13
+07:09:00
+
+22/01/15
+06:35:00
+
+1,31
+
+1,30
+
+1,36
+
+1,49
+
+09/09/15
+06:29:00
+
+22/08/16
+06:49:00
+
+26/04/17
+06:23:00
+
+13/10/21
+07:28:20
+
+1
+0,5
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 28/32
+____________________________________________________________________________________________
+
+Ant i-TPO
+Mat e rial:
+Me t o d o :
+
+36 U/mL
+
+Sangue
+Quimiluminescencia
+
+Valor de Ref erencia:
+Inferior a 60 U/mL
+Bibliografia
+- Instrucoes do fabricante
+*Nova metodologia a partir de 11/11/2019*
+80
+70
+60
+50
+40
+30
+
+41
+
+19/01/21
+06:38:32
+
+36
+13/10/21
+07:28:20
+
+Resultado nao apresentado no grafico: 07/05/2019 06:40 - < 28.0
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+Ant i-t ireoglobulina
+Mat e rial:
+Me t o d o :
+
+< 1.3 IU/mL
+
+Sangue
+Quimioluminescencia
+
+Valor de Ref erencia:
+Inferior a 4.5 IU/mL
+* Novo valor de referencia e nova metodologia a partir de 06/05/2021*
+Nota:
+Valor de referencia baseado no ponto de corte (cut- off) para indicacao de doenca autoimune da tireoide.
+O conjunto diagnostico utiliz ado possui rastreabilidade para a preparacao de referencia internacional da
+Organiz acao Mundial de Saude (OMS), soro anti- tireoglobulina humano (NIBSC 65/093). Os resultados obtidos por
+diferentes metodos nao sao intercambiaveis. Sugerimos, a criterio clinico, tracar uma nova linha de base para
+pacientes que estao em monitoramento.
+Bibliografia:
+Instrucoes do fabricante
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 29/32
+____________________________________________________________________________________________
+
+Tireoglobulina, Dosagem
+Mat e rial:
+Me t o d o :
+
+16,70 ng/mL
+
+Sangue
+Eletroquimioluminescencia
+
+Valor de Ref erencia:
+3,50 a 77,00 ng/mL
+Nota: Resultados obtidos por ensaios laboratoriais distintos podem nao ser comparaveis. Em caso de
+monitoriz acao, deve- se reiniciar o acompanhamento a partir da mudanca do ensaio.
+Sensibilidade funcional do metodo: 0,10 ng/mL
+Linearidade ..: 500,00 ng/mL
+*Novos valores de referencia a parti de 27/07/2021*.
+Dat a de colet a: 13/10/2021 - 07:28:23
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 30/32
+____________________________________________________________________________________________
+
+Glicose de Jejum
+Mat e rial:
+Me t o d o :
+
+89 mg/dL
+
+Sangue
+Enz imatico
+
+Valor de Ref erencia:
+70 a 99 mg/dL
+Bibliografia: Diagnosis and Classification of Diabetes Mellitus(Diabetes Care, Vol. 32, Sup. 1, January 2009)
+Disponivel em: http://care.diabetesjournals.org/content/32/Supplement_1/S62.full.pdf+html
+*Nova metodologia a partir de 11/11/2019*
+120
+100
+
+88
+
+91
+
+88
+
+89
+
+85
+
+91
+
+94
+
+05/12/14
+06:31:00
+
+22/01/15
+06:25:00
+
+09/09/15
+06:29:00
+
+04/02/16
+06:21:00
+
+22/08/16
+06:49:00
+
+07/05/19
+06:40:52
+
+26/11/19
+06:52:15
+
+85
+
+82
+
+03/08/20
+06:17:42
+
+19/01/21
+06:38:32
+
+80
+
+89
+
+60
+40
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+13/10/21
+07:28:20
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 31/32
+____________________________________________________________________________________________
+
+Insulina de jejum
+Mat e rial:
+Me t o d o :
+
+13,6 mcU/mL
+
+Sangue
+Quimiluminescencia
+
+Valor de Ref erencia:
+3,0 a 25,0 mcU/mL (em jejum)
+Fonte: Instrucoes do Fabricante
+A metodologia pode sofrer interferencia de insulina exogena. Pacientes em uso de insulina devem ter o
+resultado interpretado com cautela.
+*Nova metodologia a partir de 11/11/2019*
+30
+20
+10
+
+8,6
+
+13,6
+
+0
+19/01/21
+06:38:32
+
+13/10/21
+07:28:20
+
+Dat a de colet a: 13/10/2021 - 07:28:20
+Bib lio g rafia
+Me lme d S, Po lo ns ky KS, Lars e n PR, Kro ne nb e rg HM, Williams Te xtb o o k o f End o c rino lo g y. 12th e d . Philad e lp hia: Els e vie r Saund e rs ; 20 11
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+Nome
+:
+Dt nasciment o :
+Solicit ant e Dr(a) :
+Unidade
+:
+
+IYAN LUCAS DUARTE MARQUES
+02/10/2001
+DARLEI SANTOS MARQUES
+BARBACENA
+
+Codigo O.S
+Dat a O.S
+CRM
+Plano
+
+:
+:
+:
+:
+
+019- 66030- 123
+13/10/2021
+26560
+MG
+UNIMED - (Ant igo F9)
+
+Emissao laud o
+
+: 22/10/2021 - 15:59:50
+Paginacao : 32/32
+____________________________________________________________________________________________
+
+Hemoglobina glicada, A1c
+Mat e rial:
+Me t o d o :
+
+Sangue
+HPLC
+
+Hemoglobina glicada, A1c
+5,3 %
+Valor de Ref erencia:
+4,0 a 6,0%
+O metodo utiliz ado esta certificado pelo NGSP (National Glycohemoglobin Standardiz ation Program).
+Para o efetivo controle do Diabetes mellitus deve- se ter como meta valores inferiores a 7,0 % (SBPC/ML, SBEM, SBD,
+ALAD, FENAD).
+Criterios para diagnostico do Diabetes mellitus
+5,7 a 6,4%.......: Risco aumentado para diabetes
+Maior que 6,4%: Consistente com diabetes
+Fonte: Standards of Medical Care in Diabetes - 2014. Diabetes care, vol.37 supplement 1, January 2014.
+* Novos valores de referencia a partir de 08/01/2014 *
+* Nova metodologia a partir de 03/12/2018*
+10
+8
+6
+
+5,4
+
+5,6
+
+5,3
+
+03/08/20
+06:17:45
+
+19/01/21
+06:38:43
+
+13/10/21
+07:28:27
+
+4
+2
+
+Glicemia media est imada
+
+105
+
+mg/dL
+
+Valor de Ref erencia:
+A glicemia media estimada reflete a media dos niveis glicemicos nas ultimas 5 a 12 semanas, auxiliando na
+monitoriz acao dos pacientes diabeticos.
+Bibliografia: Translating the A1C assay into Estimated Average Glucose values (Diabetes Care, Vol. 31 (8), August
+2008)
+Metodo: Calculo baseado no valor da Hemoglobina glicada, A1c.
+D at a d e C o le t a:
+
+13/10/2021 - 07:28:27
+
+ASSINATURA DIGITAL
+4C1D4628581B47218A05530B41E7348D6C5B6EFC30644128F0B8022AFF1F154C5DF8FD08124929
+
+
